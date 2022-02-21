@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=fadeIn&text=Surdarla&fontSize=30&desc=er%20day" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=fadeIn&text=Surdarla&fontSize=30&desc=매일매일%20조금씩" />
 
 
 
