@@ -1,17 +1,16 @@
-### Hi there 👋
 
+# HI
 
-**surdarla/surdarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
 
-Here are some ideas to get you started:
+<!-- github stats -->
+![surdarla's GitHub stats](https://github-readme-stats.vercel.app/api?username=surdarla&show_icons=true&theme=onedark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- lang stats -->
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surdarla&layout=compact&theme=onedark)
 
-![surdarla's GitHub stats](https://github-readme-stats.vercel.app/api?username=surdarla&show_icons=true&theme=radical)
+<!-- github tropies  -->
+![trophy](https://github-profile-trophy.vercel.app/?username=surdarla&theme=onedark&margin-w=15)
+
+<!-- github hits -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsurdarla&count_bg=%23A9A9A9&title_bg=%23787878&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
