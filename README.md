@@ -1,7 +1,6 @@
 
-# HI
 
-## Stats
+
 
 **Tech stats**
 
