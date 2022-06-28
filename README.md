@@ -10,8 +10,7 @@
  
  **Study Blog**
  
-https://surdarla.super.site/
- 
+[tech blog](https://surdarla.github.io/)
  - paper review
  - problem solving
 
