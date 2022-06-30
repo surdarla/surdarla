@@ -2,18 +2,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=fadeIn&text=Surdarla&fontSize=50&" />
 
 
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png"></code>
- 
- 
- **Study Blog**
- 
-[tech blog](https://surdarla.github.io/)
- - paper review
- - problem solving
+<p align='center'>**Languages and Tools:**</p>
+<p align='center'>
+    <img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://pytorch.org/docs/stable/index.html">
+    <img alt="Python" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+  </a>
+  <a href="https://pytorch-lightning.readthedocs.io/en/latest/?_ga=2.125175938.920785858.1656556543-1137010303.1655971538">
+    <img alt="Python" src ="https://img.shields.io/badge/pytorch_lightning-792EE5.svg?&style=for-the-badge&logo=pytorch-lightning&logoColor=white"/>
+  </a>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
 
  
 **Github Status**
