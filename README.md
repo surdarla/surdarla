@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=fadeIn&text=Surdarla&fontSize=50&" />
 
 
-<p align='center'>**Languages and Tools:**</p>
+**Languages and Tools**
 <p align='center'>
     <img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   </a>
